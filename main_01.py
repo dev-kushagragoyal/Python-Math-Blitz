@@ -67,7 +67,7 @@ while True:
         start_choice()
 
         if choice_game == 1:
-                
+
                 print("In square game you have to find the square of the number and tell your answer")
                 print()
 
